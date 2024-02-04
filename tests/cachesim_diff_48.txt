@@ -1,0 +1,185 @@
+2c2,22
+< load 0x0 miss 63
+---
+> load 0x0 miss 36
+> load 0x0 hit 36
+> store 0x0 miss
+> load 0x0 hit 39
+> store 0x400 miss
+> load 0x400 miss 38
+> load 0x0 hit 39
+> load 0x400 hit 38
+> store 0x0 miss
+> load 0x0 hit 62
+> store 0x400 miss
+> load 0x400 hit 37
+> store 0x800 miss
+> load 0x800 miss 61
+> store 0xc00 miss
+> load 0xc00 miss 33
+> load 0x0 hit 62
+> load 0x400 hit 37
+> load 0x800 hit 61
+> load 0xc00 hit 33
+> store 0x0 miss
+4,5d23
+< store 0x0 hit
+< load 0x0 hit 99
+7,13c25
+< load 0x400 miss 89
+< load 0x0 hit 99
+< load 0x400 hit 89
+< store 0x0 hit
+< load 0x0 hit b5
+< store 0x400 hit
+< load 0x400 hit 78
+---
+> load 0x400 hit 31
+15c27
+< load 0x800 miss a0
+---
+> load 0x800 hit 33
+17,29c29
+< load 0xc00 miss 3a
+< load 0x0 hit b5
+< load 0x400 hit 78
+< load 0x800 hit a0
+< load 0xc00 hit 3a
+< store 0x0 hit
+< load 0x0 hit c9
+< store 0x400 hit
+< load 0x400 hit 11
+< store 0x800 hit
+< load 0x800 hit 31
+< store 0xc00 hit
+< load 0xc00 hit a4
+---
+> load 0xc00 hit 61
+31c31
+< load 0x1000 miss 5a
+---
+> load 0x1000 miss 35
+33c33
+< load 0x1400 miss 6f
+---
+> load 0x1400 miss 36
+35c35
+< load 0x1800 miss 3a
+---
+> load 0x1800 miss 33
+37,61c37,61
+< load 0x1c00 miss b6
+< load 0x0 hit c9
+< load 0x400 hit 11
+< load 0x800 hit 31
+< load 0xc00 hit a4
+< load 0x1000 hit 5a
+< load 0x1400 hit 6f
+< load 0x1800 hit 3a
+< load 0x1c00 hit b6
+< store 0x0 hit
+< load 0x0 hit 49
+< store 0x400 hit
+< load 0x400 hit b0
+< store 0x800 hit
+< load 0x800 hit 0f
+< store 0xc00 hit
+< load 0xc00 hit 91
+< store 0x1000 hit
+< load 0x1000 hit f6
+< store 0x1400 hit
+< load 0x1400 hit 8e
+< store 0x1800 hit
+< load 0x1800 hit 55
+< store 0x1c00 hit
+< load 0x1c00 hit f0
+---
+> load 0x1c00 miss 62
+> load 0x0 hit 63
+> load 0x400 hit 31
+> load 0x800 hit 33
+> load 0xc00 hit 61
+> load 0x1000 hit 35
+> load 0x1400 hit 36
+> load 0x1800 hit 33
+> load 0x1c00 hit 62
+> store 0x0 miss
+> load 0x0 hit 34
+> store 0x400 miss
+> load 0x400 hit 62
+> store 0x800 miss
+> load 0x800 hit 30
+> store 0xc00 miss
+> load 0xc00 hit 39
+> store 0x1000 miss
+> load 0x1000 hit 66
+> store 0x1400 miss
+> load 0x1400 hit 38
+> store 0x1800 miss
+> load 0x1800 hit 35
+> store 0x1c00 miss
+> load 0x1c00 hit 66
+63c63
+< load 0x2000 miss 37
+---
+> load 0x2000 miss 33
+65c65
+< load 0x2400 miss cf
+---
+> load 0x2400 miss 63
+67c67
+< load 0x2800 miss 52
+---
+> load 0x2800 miss 35
+69c69
+< load 0x2c00 miss 1f
+---
+> load 0x2c00 miss 31
+71c71
+< load 0x3000 miss cc
+---
+> load 0x3000 miss 63
+73c73
+< load 0x3400 miss c1
+---
+> load 0x3400 miss 63
+75c75
+< load 0x3800 miss 11
+---
+> load 0x3800 miss 31
+77,93c77,93
+< load 0x3c00 miss 1c
+< load 0x0 hit 49
+< load 0x400 hit b0
+< load 0x800 hit 0f
+< load 0xc00 hit 91
+< load 0x1000 hit f6
+< load 0x1400 hit 8e
+< load 0x1800 hit 55
+< load 0x1c00 hit f0
+< load 0x2000 hit 37
+< load 0x2400 hit cf
+< load 0x2800 hit 52
+< load 0x2c00 hit 1f
+< load 0x3000 hit cc
+< load 0x3400 hit c1
+< load 0x3800 hit 11
+< load 0x3c00 hit 1c
+---
+> load 0x3c00 miss 31
+> load 0x0 hit 34
+> load 0x400 hit 62
+> load 0x800 hit 30
+> load 0xc00 hit 39
+> load 0x1000 hit 66
+> load 0x1400 hit 38
+> load 0x1800 hit 35
+> load 0x1c00 hit 66
+> load 0x2000 hit 33
+> load 0x2400 hit 63
+> load 0x2800 hit 35
+> load 0x2c00 hit 31
+> load 0x3000 hit 63
+> load 0x3400 hit 63
+> load 0x3800 hit 31
+> load 0x3c00 hit 31

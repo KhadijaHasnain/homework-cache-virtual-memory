@@ -1,0 +1,16 @@
+load 0x0 miss 00000000
+store 0x0 miss
+load 0x4 miss 00000000
+store 0x4 miss
+load 0x8 miss 00000000
+store 0x8 miss
+load 0xc miss 00000000
+store 0xc miss
+load 0x10 miss 00000000
+store 0x10 miss
+load 0x14 miss 00000000
+store 0x14 miss
+load 0x18 miss 00000000
+store 0x18 miss
+load 0x1c miss 00000000
+store 0x1c miss

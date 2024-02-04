@@ -1,0 +1,1734 @@
+5c5
+< store 0x432e hit
+---
+> store 0x432e miss
+31c31
+< store 0x432f hit
+---
+> store 0x432f miss
+34c34
+< load 0x4865 miss 0000b34f00000000
+---
+> load 0x4865 miss 0000623300000000
+37c37
+< store 0xa12c hit
+---
+> store 0xa12c miss
+41,43c41,43
+< store 0x2466 hit
+< load 0x4400 miss 0016000000000000
+< store 0x22c8 hit
+---
+> store 0x2466 miss
+> load 0x4400 miss 0031000000000000
+> store 0x22c8 miss
+46c46
+< store 0x252f hit
+---
+> store 0x252f miss
+48c48
+< store 0xaa65 hit
+---
+> store 0xaa65 miss
+57c57
+< store 0x4602 hit
+---
+> store 0x4602 miss
+62,63c62,63
+< load 0x4865 hit 0000b34f00000000
+< load 0xa2cb miss 5e
+---
+> load 0x4865 hit 0000623300000000
+> load 0xa2cb miss 35
+71c71
+< store 0x452d hit
+---
+> store 0x452d miss
+76c76
+< store 0x852f hit
+---
+> store 0x852f miss
+79,80c79,80
+< store 0x8465 hit
+< store 0x3 hit
+---
+> store 0x8465 miss
+> store 0x3 miss
+83c83
+< store 0x72d hit
+---
+> store 0x72d miss
+85c85
+< store 0x292e hit
+---
+> store 0x292e miss
+89c89
+< store 0x272d hit
+---
+> store 0x272d miss
+91c91
+< load 0x8065 miss 8ec4247900000000
+---
+> load 0x8065 miss 3865633400000000
+97,100c97,100
+< load 0x62c8 hit b702
+< store 0x4ac9 hit
+< load 0x4401 hit 16
+< store 0x60ca hit
+---
+> load 0x62c8 hit 6237
+> store 0x4ac9 miss
+> load 0x4401 hit 31
+> store 0x60ca miss
+102,103c102,103
+< load 0x272c hit 001b
+< load 0x1 hit 0000bc65
+---
+> load 0x272c hit 0031
+> load 0x1 hit 00006263
+107,108c107,108
+< store 0xaac8 hit
+< store 0x6201 hit
+---
+> store 0xaac8 miss
+> store 0x6201 miss
+111c111
+< store 0x8401 hit
+---
+> store 0x8401 miss
+116,118c116,118
+< load 0x60ca hit ede70000
+< load 0x6202 hit 8c
+< load 0x2ac9 hit 22
+---
+> load 0x60ca hit 65640000
+> load 0x6202 hit 65
+> load 0x2ac9 hit 66
+121c121
+< load 0x272f hit fe
+---
+> load 0x272f hit 31
+124,125c124,125
+< store 0xa72d hit
+< store 0x264 hit
+---
+> store 0xa72d miss
+> store 0x264 miss
+127,128c127,128
+< load 0x692c miss e0cd3314
+< store 0x4b2d hit
+---
+> load 0x692c miss 65306364
+> store 0x4b2d miss
+130c130
+< store 0x40c9 hit
+---
+> store 0x40c9 miss
+133c133
+< load 0x8b2f miss a0
+---
+> load 0x8b2f miss 61
+135c135
+< store 0x872d hit
+---
+> store 0x872d miss
+142c142
+< store 0x6000 hit
+---
+> store 0x6000 miss
+144c144
+< store 0x32e hit
+---
+> store 0x32e miss
+146,147c146,147
+< store 0x4a02 hit
+< store 0x8cb hit
+---
+> store 0x4a02 miss
+> store 0x8cb miss
+150c150
+< load 0x8065 hit 8ec4247900000000
+---
+> load 0x8065 hit 3865633400000000
+152c152
+< load 0x2666 hit b5
+---
+> load 0x2666 hit 39
+155,157c155,157
+< store 0x452f hit
+< store 0x492e hit
+< load 0x2cb hit c7
+---
+> store 0x452f miss
+> store 0x492e miss
+> load 0x2cb hit 61
+161,164c161,164
+< load 0x272c hit 001b1bfeb8000000
+< store 0x432c hit
+< store 0x40cb hit
+< store 0x6067 hit
+---
+> load 0x272c hit 0031623162000000
+> store 0x432c miss
+> store 0x40cb miss
+> store 0x6067 miss
+166c166
+< store 0x2203 hit
+---
+> store 0x2203 miss
+168,170c168,170
+< load 0x4b2d hit d5
+< store 0xaa02 hit
+< store 0x88c9 hit
+---
+> load 0x4b2d hit 64
+> store 0xaa02 miss
+> store 0x88c9 miss
+174,177c174,177
+< load 0x6402 hit 6a00
+< store 0x6c9 hit
+< store 0x2603 hit
+< store 0x80c9 hit
+---
+> load 0x6402 hit 3600
+> store 0x6c9 miss
+> store 0x2603 miss
+> store 0x80c9 miss
+181,183c181,183
+< store 0x8801 hit
+< store 0x403 hit
+< store 0x4ac9 hit
+---
+> store 0x8801 miss
+> store 0x403 miss
+> store 0x4ac9 miss
+187c187
+< store 0x32e hit
+---
+> store 0x32e miss
+189c189
+< load 0x492e hit c503
+---
+> load 0x492e hit 6335
+192,194c192,194
+< load 0x8403 hit ed15
+< store 0x6465 hit
+< store 0x632c hit
+---
+> load 0x8403 hit 6235
+> store 0x6465 miss
+> store 0x632c miss
+197c197
+< store 0x4802 hit
+---
+> store 0x4802 miss
+199,203c199,203
+< store 0x6202 hit
+< store 0x8266 hit
+< store 0x432d hit
+< store 0x232e hit
+< store 0x4c8 hit
+---
+> store 0x6202 miss
+> store 0x8266 miss
+> store 0x432d miss
+> store 0x232e miss
+> store 0x4c8 miss
+205c205
+< store 0x44c8 hit
+---
+> store 0x44c8 miss
+207,208c207,208
+< store 0x24ca hit
+< load 0x6a65 miss 82370000
+---
+> store 0x24ca miss
+> load 0x6a65 miss 38320000
+211,212c211,212
+< load 0x8403 hit ed
+< store 0x12c hit
+---
+> load 0x8403 hit 62
+> store 0x12c miss
+214,215c214,215
+< store 0x2003 hit
+< load 0x432f hit ae11
+---
+> store 0x2003 miss
+> load 0x432f hit 6134
+220c220
+< store 0x2200 hit
+---
+> store 0x2200 miss
+223,224c223,224
+< load 0x2665 hit 91b5
+< load 0xa2c9 hit 00005ea05a4749ae
+---
+> load 0x2665 hit 3239
+> load 0xa2c9 hit 0000356561303561
+226,228c226,228
+< load 0x8ac9 hit 00fb
+< load 0xa002 hit 4f26
+< store 0x292d hit
+---
+> load 0x8ac9 hit 0066
+> load 0xa002 hit 3734
+> store 0x292d miss
+231c231
+< store 0x232c hit
+---
+> store 0x232c miss
+234c234
+< store 0xa864 hit
+---
+> store 0xa864 miss
+237c237
+< load 0x8b2d hit 0000a0c1
+---
+> load 0x8b2d hit 00006130
+239,247c239,247
+< load 0x62c8 hit b702dc74
+< store 0x4667 hit
+< store 0x20c9 hit
+< load 0x72d hit a9000000
+< load 0xa12d hit 3d87c588
+< store 0x8a01 hit
+< store 0x4aca hit
+< load 0x60cb hit e7
+< store 0x6a64 hit
+---
+> load 0x62c8 hit 62373032
+> store 0x4667 miss
+> store 0x20c9 miss
+> load 0x72d hit 61000000
+> load 0xa12d hit 38336438
+> store 0x8a01 miss
+> store 0x4aca miss
+> load 0x60cb hit 64
+> store 0x6a64 miss
+250,255c250,255
+< load 0x432d hit 1ed8ae11
+< load 0x40c9 hit 35e448be
+< store 0xa8cb hit
+< store 0x8803 hit
+< load 0x292c hit 00e38059
+< load 0x8267 hit fc
+---
+> load 0x432d hit 31656134
+> load 0x40c9 hit 33353438
+> store 0xa8cb miss
+> store 0x8803 miss
+> load 0x292c hit 00653830
+> load 0x8267 hit 62
+257,258c257,258
+< store 0x8266 hit
+< store 0x8200 hit
+---
+> store 0x8266 miss
+> store 0x8200 miss
+260,263c260,263
+< store 0x48c9 hit
+< store 0x8064 hit
+< load 0x8203 hit 6fdbe86a
+< store 0x652e hit
+---
+> store 0x48c9 miss
+> store 0x8064 miss
+> load 0x8203 hit 39313036
+> store 0x652e miss
+265,271c265,271
+< store 0x28ca hit
+< store 0x86ca hit
+< load 0xa02 hit 00830bd2d3000000
+< store 0x403 hit
+< load 0xa2c9 hit 00005ea0
+< store 0xa64 hit
+< store 0x2a01 hit
+---
+> store 0x28ca miss
+> store 0x86ca miss
+> load 0xa02 hit 0038333062000000
+> store 0x403 miss
+> load 0xa2c9 hit 00003565
+> store 0xa64 miss
+> store 0x2a01 miss
+276,277c276,277
+< load 0x4800 hit 0000c171c43b0000
+< store 0x4866 hit
+---
+> load 0x4800 hit 0000633137310000
+> store 0x4866 miss
+282,285c282,285
+< store 0x4664 hit
+< store 0x8265 hit
+< store 0x492f hit
+< store 0x60c9 hit
+---
+> store 0x4664 miss
+> store 0x8265 miss
+> store 0x492f miss
+> store 0x60c9 miss
+287,288c287,288
+< store 0xa003 hit
+< store 0x86c9 hit
+---
+> store 0xa003 miss
+> store 0x86c9 miss
+290,291c290,291
+< store 0x8064 hit
+< store 0x8665 hit
+---
+> store 0x8064 miss
+> store 0x8665 miss
+297,299c297,299
+< load 0x40ca hit e448becc
+< store 0x4467 hit
+< load 0x8267 hit 79
+---
+> load 0x40ca hit 35343862
+> store 0x4467 miss
+> load 0x8267 hit 38
+301c301
+< load 0x852e hit 005bdaeb
+---
+> load 0x852e hit 00356264
+303c303
+< load 0x403 hit c178
+---
+> load 0x403 hit 6331
+305,309c305,309
+< load 0x4a01 hit 8c
+< store 0x6664 hit
+< store 0x272c hit
+< store 0x6ac8 hit
+< store 0x2064 hit
+---
+> load 0x4a01 hit 38
+> store 0x6664 miss
+> store 0x272c miss
+> store 0x6ac8 miss
+> store 0x2064 miss
+311c311
+< store 0x2867 hit
+---
+> store 0x2867 miss
+313c313
+< store 0x6866 hit
+---
+> store 0x6866 miss
+316,321c316,321
+< store 0x8002 hit
+< load 0x2064 hit cd7d
+< load 0x2866 hit 00804166d9d503d6
+< store 0x4267 hit
+< store 0x62cb hit
+< load 0x452e hit 4754217a
+---
+> store 0x8002 miss
+> load 0x2064 hit 6364
+> load 0x2866 hit 0038303431363664
+> store 0x4267 miss
+> store 0x62cb miss
+> load 0x452e hit 66353432
+323,326c323,326
+< load 0x86c9 hit 448c000000000000
+< load 0x2aca hit 83
+< store 0xa602 hit
+< load 0x452d hit ff4754217a510c4d
+---
+> load 0x86c9 hit 3434000000000000
+> load 0x2aca hit 38
+> store 0xa602 miss
+> load 0x452d hit 6666353432313761
+328c328
+< store 0x8666 hit
+---
+> store 0x8666 miss
+331,338c331,338
+< store 0x2267 hit
+< store 0x2666 hit
+< store 0x42c8 hit
+< store 0x6a00 hit
+< store 0x64 hit
+< load 0x2b2c hit 0000b474
+< store 0x401 hit
+< store 0x803 hit
+---
+> store 0x2267 miss
+> store 0x2666 miss
+> store 0x42c8 miss
+> store 0x6a00 miss
+> store 0x64 miss
+> load 0x2b2c hit 00006234
+> store 0x401 miss
+> store 0x803 miss
+340,343c340,343
+< store 0x4066 hit
+< store 0x64c8 hit
+< load 0x652e hit f2
+< store 0x64c8 hit
+---
+> store 0x4066 miss
+> store 0x64c8 miss
+> load 0x652e hit 66
+> store 0x64c8 miss
+345c345
+< store 0x6664 hit
+---
+> store 0x6664 miss
+347c347
+< store 0x92d hit
+---
+> store 0x92d miss
+352c352
+< store 0x80c9 hit
+---
+> store 0x80c9 miss
+354c354
+< load 0x2665 hit 91be4d93
+---
+> load 0x2665 hit 32623162
+356,357c356,357
+< load 0x4801 hit 00c171c4
+< load 0x8664 hit 00e07df2d007af85
+---
+> load 0x4801 hit 00633137
+> load 0x8664 hit 0065376466326430
+360,361c360,361
+< load 0x8065 hit f5c42479
+< store 0xa200 hit
+---
+> load 0x8065 hit 33656334
+> store 0xa200 miss
+363c363
+< load 0x2866 hit 00804166
+---
+> load 0x2866 hit 00383034
+365c365
+< store 0x2867 hit
+---
+> store 0x2867 miss
+367,370c367,370
+< load 0x28c9 hit 001c
+< load 0x4ac8 hit 88806c38
+< store 0xaa65 hit
+< store 0x2a66 hit
+---
+> load 0x28c9 hit 0031
+> load 0x4ac8 hit 38383663
+> store 0xaa65 miss
+> store 0x2a66 miss
+372,373c372,373
+< store 0x2 hit
+< load 0x3 hit 0b0ee800
+---
+> store 0x2 miss
+> load 0x3 hit 37306200
+377,379c377,379
+< store 0x203 hit
+< load 0xaac8 hit ee000000
+< store 0x64c9 hit
+---
+> store 0x203 miss
+> load 0xaac8 hit 65000000
+> store 0x64c9 miss
+381,382c381,382
+< load 0xa200 hit e5
+< store 0x4664 hit
+---
+> load 0xa200 hit 65
+> store 0x4664 miss
+384c384
+< load 0x4a03 hit f3796200
+---
+> load 0x4a03 hit 33663300
+386,387c386,387
+< store 0x201 hit
+< load 0x8802 hit cf
+---
+> store 0x201 miss
+> load 0x8802 hit 35
+389,399c389,399
+< load 0x872c hit 00d1
+< store 0x6865 hit
+< store 0x6401 hit
+< store 0x266 hit
+< load 0x492c hit 0000c5a8f2870000
+< load 0x8666 hit 7d
+< load 0x852f hit 5bdaebef
+< store 0x6b2c hit
+< load 0xa000 hit 00374fcd
+< store 0x4b2e hit
+< store 0x6001 hit
+---
+> load 0x872c hit 0064
+> store 0x6865 miss
+> store 0x6401 miss
+> store 0x266 miss
+> load 0x492c hit 0000636130330000
+> load 0x8666 hit 37
+> load 0x852f hit 35626461
+> store 0x6b2c miss
+> load 0xa000 hit 00333763
+> store 0x4b2e miss
+> store 0x6001 miss
+402,403c402,403
+< load 0x4664 hit d3fc43d7a1d75da1
+< store 0x92f hit
+---
+> load 0x4664 hit 6433666334336437
+> store 0x92f miss
+405,409c405,409
+< store 0xa4c9 hit
+< store 0x6067 hit
+< load 0x6200 hit 00deff0000000000
+< store 0x8b2e hit
+< load 0x4c8 hit 1ade
+---
+> store 0xa4c9 miss
+> store 0x6067 miss
+> load 0x6200 hit 0064660000000000
+> store 0x8b2e miss
+> load 0x4c8 hit 3161
+412,413c412,413
+< store 0x6c8 hit
+< store 0x68ca hit
+---
+> store 0x6c8 miss
+> store 0x68ca miss
+416,418c416,418
+< store 0x8b2f hit
+< load 0xa601 hit 008e
+< load 0x432f hit ae111000
+---
+> store 0x8b2f miss
+> load 0xa601 hit 0038
+> load 0x432f hit 61346100
+420c420
+< store 0x8667 hit
+---
+> store 0x8667 miss
+422c422
+< store 0x8000 hit
+---
+> store 0x8000 miss
+426,428c426,428
+< store 0x8c9 hit
+< store 0xa264 hit
+< store 0x2603 hit
+---
+> store 0x8c9 miss
+> store 0xa264 miss
+> store 0x2603 miss
+430,431c430,431
+< store 0xa92e hit
+< store 0xaa64 hit
+---
+> store 0xa92e miss
+> store 0xaa64 miss
+435,454c435,454
+< load 0x40c8 hit 0035
+< load 0x6aca hit 00a2140000000000
+< store 0x852e hit
+< store 0xaa02 hit
+< store 0x292e hit
+< store 0xa400 hit
+< store 0xa602 hit
+< store 0x72f hit
+< store 0x4800 hit
+< load 0x2866 hit 008833e5282390fd
+< store 0x4267 hit
+< store 0x4202 hit
+< load 0x492d hit 00c5a8f2
+< store 0x2c8 hit
+< load 0x4600 hit 0000816456940000
+< store 0x8ac8 hit
+< store 0x866 hit
+< load 0xa67 hit 9ab4
+< store 0x6601 hit
+< load 0x4203 hit f3
+---
+> load 0x40c8 hit 0033
+> load 0x6aca hit 0061320000000000
+> store 0x852e miss
+> store 0xaa02 miss
+> store 0x292e miss
+> store 0xa400 miss
+> store 0xa602 miss
+> store 0x72f miss
+> store 0x4800 miss
+> load 0x2866 hit 0038383333653532
+> store 0x4267 miss
+> store 0x4202 miss
+> load 0x492d hit 00636130
+> store 0x2c8 miss
+> load 0x4600 hit 0000383136340000
+> store 0x8ac8 miss
+> store 0x866 miss
+> load 0xa67 hit 3166
+> store 0x6601 miss
+> load 0x4203 hit 31
+456,462c456,462
+< load 0xa402 hit 9c990000
+< load 0x632c hit d863688600000000
+< load 0x6867 hit e6
+< store 0x2600 hit
+< load 0xa002 hit 4fcd
+< store 0x72c hit
+< load 0xa201 hit b8
+---
+> load 0xa402 hit 65330000
+> load 0x632c hit 6438363300000000
+> load 0x6867 hit 63
+> store 0x2600 miss
+> load 0xa002 hit 3763
+> store 0x72c miss
+> load 0xa201 hit 35
+464,468c464,468
+< store 0xb2f hit
+< store 0xa72c hit
+< store 0x4803 hit
+< store 0x8402 hit
+< store 0xa464 hit
+---
+> store 0xb2f miss
+> store 0xa72c miss
+> store 0x4803 miss
+> store 0x8402 miss
+> store 0xa464 miss
+470,476c470,476
+< load 0x4801 hit 7cc1ad37
+< store 0xa65 hit
+< load 0x4266 hit 00107056cc000000
+< store 0x2664 hit
+< load 0xa92e hit f5
+< load 0x6664 hit 29
+< store 0x4664 hit
+---
+> load 0x4801 hit 61636164
+> store 0xa65 miss
+> load 0x4266 hit 0031333730000000
+> store 0x2664 miss
+> load 0xa92e hit 66
+> load 0x6664 hit 32
+> store 0x4664 miss
+478,483c478,483
+< load 0x6acb hit a214
+< load 0x872c hit 00d1fb00
+< store 0x812c hit
+< store 0x62c9 hit
+< store 0x2467 hit
+< load 0xa002 hit 4f
+---
+> load 0x6acb hit 6132
+> load 0x872c hit 00643100
+> store 0x812c miss
+> store 0x62c9 miss
+> store 0x2467 miss
+> load 0xa002 hit 37
+485c485
+< store 0x8266 hit
+---
+> store 0x8266 miss
+487,492c487,492
+< load 0x8c8 hit 0020fc44
+< load 0x6602 hit 71b7
+< load 0xaa64 hit f882
+< store 0x64ca hit
+< store 0x6a67 hit
+< store 0x292f hit
+---
+> load 0x8c8 hit 00323034
+> load 0x6602 hit 3937
+> load 0xaa64 hit 6638
+> store 0x64ca miss
+> store 0x6a67 miss
+> store 0x292f miss
+494,495c494,495
+< store 0xa12f hit
+< load 0x292e hit 02458c70
+---
+> store 0xa12f miss
+> load 0x292e hit 30343539
+497c497
+< store 0x6a66 hit
+---
+> store 0x6a66 miss
+499,501c499,501
+< store 0xa52c hit
+< store 0x232e hit
+< store 0xa601 hit
+---
+> store 0xa52c miss
+> store 0x232e miss
+> store 0xa601 miss
+503,504c503,504
+< store 0xa2c9 hit
+< load 0x8266 hit 7154c092b09b9e4a
+---
+> store 0xa2c9 miss
+> load 0x8266 hit 3731373963303932
+506,520c506,520
+< load 0x401 hit 4e00c178
+< load 0xa92f hit 0e
+< store 0x8266 hit
+< load 0x8067 hit 24790000
+< store 0x2acb hit
+< store 0xa32c hit
+< store 0x4a01 hit
+< store 0x666 hit
+< store 0x2b2f hit
+< store 0x472c hit
+< load 0xa92d hit 00f50eb0
+< store 0x4802 hit
+< load 0x72f hit 3680235900000000
+< store 0x2066 hit
+< store 0x24c9 hit
+---
+> load 0x401 hit 34006331
+> load 0xa92f hit 35
+> store 0x8266 miss
+> load 0x8067 hit 63340000
+> store 0x2acb miss
+> store 0xa32c miss
+> store 0x4a01 miss
+> store 0x666 miss
+> store 0x2b2f miss
+> store 0x472c miss
+> load 0xa92d hit 00663530
+> store 0x4802 miss
+> load 0x72f hit 3336383000000000
+> store 0x2066 miss
+> store 0x24c9 miss
+522,525c522,525
+< load 0x6400 hit 005bd96e
+< store 0x68ca hit
+< load 0xb2f hit c7
+< store 0x42ca hit
+---
+> load 0x6400 hit 00356264
+> store 0x68ca miss
+> load 0xb2f hit 63
+> store 0x42ca miss
+527,529c527,529
+< load 0x2a01 hit 3c5e509c
+< load 0x4c8 hit 1ade
+< load 0x8cb hit 44000000
+---
+> load 0x2a01 hit 33633565
+> load 0x4c8 hit 3161
+> load 0x8cb hit 34000000
+531,532c531,532
+< load 0x66 hit 46c6
+< store 0x64c9 hit
+---
+> load 0x66 hit 3464
+> store 0x64c9 miss
+534c534
+< store 0x4665 hit
+---
+> store 0x4665 miss
+536,542c536,542
+< store 0x2b2f hit
+< store 0xa267 hit
+< store 0xa92f hit
+< store 0x48cb hit
+< load 0x24c8 hit 0028
+< store 0x6acb hit
+< load 0x6603 hit b7b3
+---
+> store 0x2b2f miss
+> store 0xa267 miss
+> store 0xa92f miss
+> store 0x48cb miss
+> load 0x24c8 hit 0032
+> store 0x6acb miss
+> load 0x6603 hit 3731
+545,548c545,548
+< store 0xa665 hit
+< load 0x692c hit e0cd3314
+< load 0x8602 hit 00130000
+< store 0x2003 hit
+---
+> store 0xa665 miss
+> load 0x692c hit 65306364
+> load 0x8602 hit 00310000
+> store 0x2003 miss
+551c551
+< store 0x667 hit
+---
+> store 0x667 miss
+554,559c554,559
+< store 0x466 hit
+< load 0xa52c hit ae61
+< store 0x65 hit
+< load 0x4201 hit 0051f300
+< load 0x8a02 hit eb00
+< store 0x8b2c hit
+---
+> store 0x466 miss
+> load 0xa52c hit 6165
+> store 0x65 miss
+> load 0x4201 hit 00353100
+> load 0x8a02 hit 3800
+> store 0x8b2c miss
+561,576c561,576
+< store 0x88cb hit
+< store 0x46cb hit
+< store 0xa400 hit
+< load 0x872c hit 00d1
+< load 0x264 hit 7c3e4f7b
+< store 0x2000 hit
+< store 0x8464 hit
+< load 0x92d hit a2c6
+< store 0x465 hit
+< load 0x6201 hit deff
+< load 0x2866 hit 008833e5282390fd
+< store 0x44cb hit
+< store 0xcb hit
+< load 0x92f hit d0fe000000000000
+< load 0x6403 hit 6eac
+< store 0x264 hit
+---
+> store 0x88cb miss
+> store 0x46cb miss
+> store 0xa400 miss
+> load 0x872c hit 0064
+> load 0x264 hit 37633466
+> store 0x2000 miss
+> store 0x8464 miss
+> load 0x92d hit 6132
+> store 0x465 miss
+> load 0x6201 hit 6466
+> load 0x2866 hit 0038383333653532
+> store 0x44cb miss
+> store 0xcb miss
+> load 0x92f hit 6430000000000000
+> load 0x6403 hit 6439
+> store 0x264 miss
+578,582c578,582
+< load 0xa4c8 hit 0018
+< load 0x4800 hit 3a7cb9ad372dac96
+< load 0x6402 hit d9
+< store 0x4ca hit
+< store 0x8a01 hit
+---
+> load 0xa4c8 hit 0031
+> load 0x4800 hit 3361626164333732
+> load 0x6402 hit 62
+> store 0x4ca miss
+> store 0x8a01 miss
+584,590c584,590
+< store 0x8266 hit
+< store 0x2a67 hit
+< load 0x201 hit 06
+< load 0x632e hit 68
+< store 0x6466 hit
+< load 0x12c hit 5a9684ea
+< store 0x84ca hit
+---
+> store 0x8266 miss
+> store 0x2a67 miss
+> load 0x201 hit 30
+> load 0x632e hit 36
+> store 0x6466 miss
+> load 0x12c hit 35613936
+> store 0x84ca miss
+592,594c592,594
+< load 0x8667 hit 5b04
+< store 0x6266 hit
+< store 0x4ac9 hit
+---
+> load 0x8667 hit 3562
+> store 0x6266 miss
+> store 0x4ac9 miss
+597,598c597,598
+< load 0x4866 hit c6b34f0000000000
+< store 0x412d hit
+---
+> load 0x4866 hit 6362330000000000
+> store 0x412d miss
+600,611c600,611
+< load 0xa265 hit 0f69
+< store 0x6401 hit
+< load 0x6201 hit deff
+< store 0x265 hit
+< store 0x8865 hit
+< store 0x612f hit
+< load 0xaa64 hit f882000000000000
+< store 0x8267 hit
+< load 0x6465 hit b2
+< store 0x252f hit
+< store 0x812c hit
+< load 0x4803 hit ad
+---
+> load 0xa265 hit 3330
+> store 0x6401 miss
+> load 0x6201 hit 6466
+> store 0x265 miss
+> store 0x8865 miss
+> store 0x612f miss
+> load 0xaa64 hit 6638000000000000
+> store 0x8267 miss
+> load 0x6465 hit 62
+> store 0x252f miss
+> store 0x812c miss
+> load 0x4803 hit 61
+614,617c614,617
+< store 0xa001 hit
+< load 0xa67 hit 9ab4
+< load 0x46cb hit e3f8000000000000
+< store 0x6803 hit
+---
+> store 0xa001 miss
+> load 0xa67 hit 3166
+> load 0x46cb hit 6533000000000000
+> store 0x6803 miss
+619,620c619,620
+< load 0x632e hit 6886000000000000
+< load 0x2a03 hit 50
+---
+> load 0x632e hit 3633000000000000
+> load 0x2a03 hit 35
+622,623c622,623
+< store 0x8800 hit
+< store 0x6a65 hit
+---
+> store 0x8800 miss
+> store 0x6a65 miss
+625,627c625,627
+< store 0xa52d hit
+< load 0x2665 hit 91
+< store 0x4065 hit
+---
+> store 0xa52d miss
+> load 0x2665 hit 32
+> store 0x4065 miss
+629,631c629,631
+< load 0xa003 hit cdd4d7361f720000
+< store 0xaa01 hit
+< store 0xa2c8 hit
+---
+> load 0xa003 hit 6366323664340000
+> store 0xaa01 miss
+> store 0xa2c8 miss
+633,638c633,638
+< load 0x272c hit ade319fdb8000000
+< load 0x2867 hit 8833e528
+< store 0x4c8 hit
+< store 0xa65 hit
+< store 0x492f hit
+< store 0xa12d hit
+---
+> load 0x272c hit 6164653362000000
+> load 0x2867 hit 38383333
+> store 0x4c8 miss
+> store 0xa65 miss
+> store 0x492f miss
+> store 0xa12d miss
+641c641
+< load 0x4203 hit f300000000000000
+---
+> load 0x4203 hit 3100000000000000
+643,645c643,645
+< store 0x8200 hit
+< store 0x6a03 hit
+< load 0xa52e hit c0f1000000000000
+---
+> store 0x8200 miss
+> store 0x6a03 miss
+> load 0xa52e hit 3631000000000000
+647,652c647,652
+< load 0xa001 hit ddcecdd4
+< store 0xa8cb hit
+< store 0x4b2e hit
+< store 0xa664 hit
+< load 0xa000 hit 00ddcecdd4d7361f
+< store 0xa0c8 hit
+---
+> load 0xa001 hit 64646366
+> store 0xa8cb miss
+> store 0x4b2e miss
+> store 0xa664 miss
+> load 0xa000 hit 0064646366323664
+> store 0xa0c8 miss
+654,659c654,659
+< store 0xa800 hit
+< store 0x632c hit
+< store 0xa72f hit
+< load 0x6002 hit 9f6cd38a374b0000
+< load 0x8601 hit 00001300
+< store 0x872f hit
+---
+> store 0xa800 miss
+> store 0x632c miss
+> store 0xa72f miss
+> load 0x6002 hit 6432363436630000
+> load 0x8601 hit 00003100
+> store 0x872f miss
+661,664c661,664
+< load 0x0 hit 0000f70b
+< load 0x22ca hit 95e9000000000000
+< store 0xa265 hit
+< store 0x2201 hit
+---
+> load 0x0 hit 00006637
+> load 0x22ca hit 6439000000000000
+> store 0xa265 miss
+> store 0x2201 miss
+666,679c666,679
+< load 0x4802 hit b9ad372dac96ca66
+< load 0x92d hit a2c6d0fe
+< load 0x68cb hit 3e
+< store 0x6002 hit
+< load 0x8ac9 hit 6109
+< store 0x2 hit
+< load 0x2a03 hit 509c000000000000
+< load 0x8003 hit e0000000
+< store 0x467 hit
+< load 0x40ca hit e4
+< store 0x46cb hit
+< load 0x80c9 hit 0b00
+< store 0x84c8 hit
+< store 0x4b2c hit
+---
+> load 0x4802 hit 6261643337326461
+> load 0x92d hit 61326430
+> load 0x68cb hit 62
+> store 0x6002 miss
+> load 0x8ac9 hit 6236
+> store 0x2 miss
+> load 0x2a03 hit 3565000000000000
+> load 0x8003 hit 30000000
+> store 0x467 miss
+> load 0x40ca hit 35
+> store 0x46cb miss
+> load 0x80c9 hit 3000
+> store 0x84c8 miss
+> store 0x4b2c miss
+681,684c681,684
+< load 0x8264 hit 002fdde8c092b09b
+< store 0x86c8 hit
+< load 0x403 hit c17801d91b50a8fc
+< load 0x264 hit 82
+---
+> load 0x8264 hit 0032646537396330
+> store 0x86c8 miss
+> load 0x403 hit 6331373830316439
+> load 0x264 hit 38
+686,698c686,698
+< load 0x632e hit 68860000
+< load 0x632d hit 0a688600
+< load 0x4067 hit 3a00000000000000
+< store 0x8a64 hit
+< load 0x4603 hit 6456940000000000
+< load 0x42ca hit 996f0508
+< load 0x4ca hit ab2d
+< store 0x66 hit
+< load 0x8c8 hit 0020fc44
+< store 0xa00 hit
+< store 0x866 hit
+< store 0x80c8 hit
+< load 0x8000 hit ac4c30e0
+---
+> load 0x632e hit 36330000
+> load 0x632d hit 34363300
+> load 0x4067 hit 6600000000000000
+> store 0x8a64 miss
+> load 0x4603 hit 3136340000000000
+> load 0x42ca hit 39393666
+> load 0x4ca hit 3662
+> store 0x66 miss
+> load 0x8c8 hit 00323034
+> store 0xa00 miss
+> store 0x866 miss
+> store 0x80c8 miss
+> load 0x8000 hit 61633330
+702,711c702,711
+< load 0x472c hit a6bb806b13ec9917
+< load 0x68c8 hit 6e444b3e00000000
+< store 0x66cb hit
+< load 0x6466 hit 092a8ab500000000
+< load 0xa265 hit 8e1f802c
+< store 0xa402 hit
+< load 0x12d hit 9684ea00
+< load 0x264 hit 82940545
+< load 0x2a00 hit 003c5e50
+< store 0x603 hit
+---
+> load 0x472c hit 6136626238303662
+> load 0x68c8 hit 3665346200000000
+> store 0x66cb miss
+> load 0x6466 hit 3039326100000000
+> load 0xa265 hit 38653166
+> store 0xa402 miss
+> load 0x12d hit 61393600
+> load 0x264 hit 38393430
+> load 0x2a00 hit 00336335
+> store 0x603 miss
+714c714
+< load 0x2a66 hit 150c3bc0
+---
+> load 0x2a66 hit 31306333
+716c716
+< store 0x812f hit
+---
+> store 0x812f miss
+718,724c718,724
+< load 0x24c9 hit 28fddd08b1e4308d
+< store 0x2a64 hit
+< load 0x8266 hit dd
+< load 0x8c9 hit 20fc440000000000
+< load 0x692c hit e0cd
+< load 0x4066 hit df3a0000
+< store 0x652c hit
+---
+> load 0x24c9 hit 3238306464303862
+> store 0x2a64 miss
+> load 0x8266 hit 64
+> load 0x8c9 hit 3230340000000000
+> load 0x692c hit 6530
+> load 0x4066 hit 64660000
+> store 0x652c miss
+726,727c726,727
+< load 0x72e hit 0036802359000000
+< load 0xb2f hit c756191cf849990b
+---
+> load 0x72e hit 0033363830000000
+> load 0xb2f hit 6337353631393163
+729,754c729,754
+< store 0xa72d hit
+< store 0xa12f hit
+< store 0x403 hit
+< load 0x4866 hit c6b3
+< store 0x292f hit
+< store 0x866 hit
+< load 0x203 hit 1e
+< load 0xa601 hit 4b24ff5f
+< load 0x64c9 hit da1f84a4
+< load 0x4a03 hit 004d620000000000
+< load 0x8802 hit cf
+< store 0xa203 hit
+< load 0xa01 hit 3200
+< load 0x872d hit d1fb
+< load 0xa400 hit 2267929900000000
+< load 0xa465 hit 95000000
+< store 0x612e hit
+< store 0xa12f hit
+< load 0x8600 hit 00000013
+< load 0x68c8 hit 6e444b3e00000000
+< load 0x4b2c hit 0ce3
+< load 0x632f hit 8600000000000000
+< store 0x12e hit
+< store 0x802 hit
+< store 0x6403 hit
+< load 0xa003 hit cdd4
+---
+> store 0xa72d miss
+> store 0xa12f miss
+> store 0x403 miss
+> load 0x4866 hit 6362
+> store 0x292f miss
+> store 0x866 miss
+> load 0x203 hit 61
+> load 0xa601 hit 34623234
+> load 0x64c9 hit 64316638
+> load 0x4a03 hit 6530330000000000
+> load 0x8802 hit 35
+> store 0xa203 miss
+> load 0xa01 hit 6100
+> load 0x872d hit 6431
+> load 0xa400 hit 3232393300000000
+> load 0xa465 hit 63000000
+> store 0x612e miss
+> store 0xa12f miss
+> load 0x8600 hit 00000031
+> load 0x68c8 hit 3665346200000000
+> load 0x4b2c hit 3063
+> load 0x632f hit 3300000000000000
+> store 0x12e miss
+> store 0x802 miss
+> store 0x6403 miss
+> load 0xa003 hit 6366
+756,764c756,764
+< load 0x6664 hit 29
+< load 0x692d hit cd33
+< store 0xa603 hit
+< store 0xa401 hit
+< load 0x2200 hit b2
+< load 0x64cb hit 84
+< store 0x6864 hit
+< load 0xa602 hit 24934b00
+< load 0x62c8 hit b73bdc5740d6b795
+---
+> load 0x6664 hit 32
+> load 0x692d hit 3063
+> store 0xa603 miss
+> store 0xa401 miss
+> load 0x2200 hit 62
+> load 0x64cb hit 66
+> store 0x6864 miss
+> load 0xa602 hit 62393334
+> load 0x62c8 hit 6233303537343064
+766,770c766,770
+< store 0xa2ca hit
+< load 0x802 hit 2b
+< store 0x652f hit
+< store 0x872f hit
+< store 0xa65 hit
+---
+> store 0xa2ca miss
+> load 0x802 hit 32
+> store 0x652f miss
+> store 0x872f miss
+> store 0xa65 miss
+772,774c772,774
+< store 0x8865 hit
+< load 0x4c8 hit b56bab2d
+< load 0x2666 hit be4d9380
+---
+> store 0x8865 miss
+> load 0x4c8 hit 62353662
+> load 0x2666 hit 62316235
+776,777c776,777
+< store 0x465 hit
+< store 0xab2c hit
+---
+> store 0x465 miss
+> store 0xab2c miss
+779,785c779,785
+< load 0x6c9 hit 8302f3bc63d07bc4
+< store 0x2b2f hit
+< load 0x6aca hit 003a
+< store 0x4865 hit
+< load 0x32f hit 43
+< load 0x8603 hit 1300
+< store 0x6867 hit
+---
+> load 0x6c9 hit 3933303266336263
+> store 0x2b2f miss
+> load 0x6aca hit 0033
+> store 0x4865 miss
+> load 0x32f hit 35
+> load 0x8603 hit 3100
+> store 0x6867 miss
+788,791c788,791
+< load 0x2c9 hit b7
+< load 0x8003 hit e000
+< store 0x8866 hit
+< load 0x4866 hit 9f
+---
+> load 0x2c9 hit 31
+> load 0x8003 hit 3000
+> store 0x8866 miss
+> load 0x4866 hit 66
+793,797c793,797
+< store 0xa401 hit
+< load 0x492f hit 99a9
+< load 0xa201 hit b8e2
+< load 0x666 hit eab83ea139000000
+< load 0x2064 hit cd7d151e00000000
+---
+> store 0xa401 miss
+> load 0x492f hit 3939
+> load 0xa201 hit 3562
+> load 0x666 hit 6562383365000000
+> load 0x2064 hit 6364313500000000
+799,804c799,804
+< store 0x8a67 hit
+< load 0x492f hit 99a9
+< load 0xa601 hit 4b24934b00c832a8
+< load 0x2b2c hit 0000b40b
+< store 0x4a02 hit
+< store 0x612c hit
+---
+> store 0x8a67 miss
+> load 0x492f hit 3939
+> load 0xa601 hit 3462393334623030
+> load 0x2b2c hit 00006230
+> store 0x4a02 miss
+> store 0x612c miss
+806,823c806,823
+< load 0x432f hit ae111000
+< load 0x612e hit 0b
+< store 0x6402 hit
+< load 0x6400 hit 00cc3a10
+< store 0x68ca hit
+< load 0x6a67 hit 4d88fa7d
+< load 0x8b2f hit bb234334
+< store 0x232f hit
+< load 0xa8ca hit 006d5c3b
+< store 0x6b2e hit
+< load 0x84c8 hit dd
+< load 0x6265 hit 002bad00
+< store 0x4001 hit
+< store 0x8a64 hit
+< load 0x272d hit e3
+< load 0x60c9 hit d7ede700
+< load 0x12d hit 96c1ea00
+< store 0x64c8 hit
+---
+> load 0x432f hit 61346100
+> load 0x612e hit 30
+> store 0x6402 miss
+> load 0x6400 hit 00633361
+> store 0x68ca miss
+> load 0x6a67 hit 63323464
+> load 0x8b2f hit 64626562
+> store 0x232f miss
+> load 0xa8ca hit 00366435
+> store 0x6b2e miss
+> load 0x84c8 hit 64
+> load 0x6265 hit 00326200
+> store 0x4001 miss
+> store 0x8a64 miss
+> load 0x272d hit 64
+> load 0x60c9 hit 64656400
+> load 0x12d hit 61633600
+> store 0x64c8 miss
+825,844c825,844
+< load 0x4c9 hit 6bab
+< load 0x4acb hit 38
+< load 0x812e hit 6f4d
+< store 0xa2c8 hit
+< load 0x2c9 hit b7b561b9
+< store 0x8800 hit
+< store 0x46cb hit
+< store 0x20cb hit
+< load 0x4aca hit 6c38
+< load 0x292c hit 00e30232
+< store 0x4b2e hit
+< load 0x42ca hit 996f0508
+< load 0x6c8 hit f9
+< store 0x467 hit
+< store 0xa52f hit
+< load 0x92f hit d0
+< store 0x600 hit
+< store 0x432c hit
+< store 0x4602 hit
+< load 0x92d hit a2c6d0fe00000000
+---
+> load 0x4c9 hit 3536
+> load 0x4acb hit 63
+> load 0x812e hit 3834
+> store 0xa2c8 miss
+> load 0x2c9 hit 31623762
+> store 0x8800 miss
+> store 0x46cb miss
+> store 0x20cb miss
+> load 0x4aca hit 3663
+> load 0x292c hit 00653033
+> store 0x4b2e miss
+> load 0x42ca hit 39393666
+> load 0x6c8 hit 66
+> store 0x467 miss
+> store 0xa52f miss
+> load 0x92f hit 64
+> store 0x600 miss
+> store 0x432c miss
+> store 0x4602 miss
+> load 0x92d hit 6132643000000000
+846,847c846,847
+< load 0x6600 hit 005971b7
+< load 0xaac8 hit ee
+---
+> load 0x6600 hit 00353937
+> load 0xaac8 hit 65
+849,857c849,857
+< load 0x8a01 hit ebeb0000
+< store 0x4403 hit
+< store 0x6401 hit
+< load 0xa601 hit 4b24
+< load 0xa8c8 hit 0000006d5c3bf134
+< store 0x6467 hit
+< load 0x6a64 hit e5
+< store 0xaaca hit
+< load 0x852f hit 33daebef68716429
+---
+> load 0x8a01 hit 65380000
+> store 0x4403 miss
+> store 0x6401 miss
+> load 0xa601 hit 3462
+> load 0xa8c8 hit 0000003664356333
+> store 0x6467 miss
+> load 0x6a64 hit 65
+> store 0xaaca miss
+> load 0x852f hit 6462646165626566
+859,862c859,862
+< store 0x6265 hit
+< store 0xaa02 hit
+< load 0x2a66 hit 150c3bc0
+< load 0x8465 hit 3428124c
+---
+> store 0x6265 miss
+> store 0xaa02 miss
+> load 0x2a66 hit 31306333
+> load 0x8465 hit 63333435
+865,874c865,874
+< load 0x8264 hit 002fdde8c092b09b
+< load 0x62cb hit 5740
+< store 0xa0c9 hit
+< load 0x202 hit ab
+< store 0xaa01 hit
+< load 0x665 hit 00eab83e
+< load 0x22c9 hit d995
+< load 0x4865 hit ff9f
+< load 0x232d hit b6603e75de716e51
+< load 0x8a02 hit eb00
+---
+> load 0x8264 hit 0032646537396330
+> load 0x62cb hit 3537
+> store 0xa0c9 miss
+> load 0x202 hit 36
+> store 0xaa01 miss
+> load 0x665 hit 00656238
+> load 0x22c9 hit 6264
+> load 0x4865 hit 6666
+> load 0x232d hit 3036336537356634
+> load 0x8a02 hit 3800
+876,887c876,887
+< load 0x4cb hit 2d
+< load 0xa202 hit e27a2205
+< store 0x6465 hit
+< store 0x8403 hit
+< load 0x4664 hit a5b343d7
+< load 0x4803 hit ad372dac96ca663c
+< load 0x2465 hit 00b6da00
+< load 0xa402 hit cfcd470000000000
+< load 0x4602 hit 176a569400000000
+< load 0x8b2c hit ac9dbebb23433401
+< load 0xa201 hit b8
+< load 0xa52c hit ae3fc0c706000000
+---
+> load 0x4cb hit 62
+> load 0xa202 hit 62376532
+> store 0x6465 miss
+> store 0x8403 miss
+> load 0x4664 hit 61626663
+> load 0x4803 hit 6164333732646163
+> load 0x2465 hit 00626400
+> load 0xa402 hit 3263660000000000
+> load 0x4602 hit 3137363400000000
+> load 0x8b2c hit 6163396462656262
+> load 0xa201 hit 35
+> load 0xa52c hit 6133366337000000
+889,891c889,891
+< store 0xaca hit
+< load 0x232c hit 80b6
+< load 0x601 hit f8
+---
+> store 0xaca miss
+> load 0x232c hit 3830
+> load 0x601 hit 63
+893,897c893,897
+< load 0x72d hit a9003680
+< store 0x8a66 hit
+< store 0x252d hit
+< load 0x80c8 hit f80b000000000000
+< store 0x8a64 hit
+---
+> load 0x72d hit 61003336
+> store 0x8a66 miss
+> store 0x252d miss
+> load 0x80c8 hit 6630000000000000
+> store 0x8a64 miss
+899,911c899,911
+< load 0x2002 hit 007a
+< store 0x665 hit
+< store 0xa67 hit
+< store 0x4b2e hit
+< load 0x8264 hit 002f
+< load 0x64c9 hit 14810542
+< store 0x852e hit
+< load 0x2a65 hit 21150c3b
+< load 0x4b2f hit 4af5
+< store 0x8864 hit
+< load 0x4800 hit 3a
+< store 0x6466 hit
+< store 0x812e hit
+---
+> load 0x2002 hit 0037
+> store 0x665 miss
+> store 0xa67 miss
+> store 0x4b2e miss
+> load 0x8264 hit 0032
+> load 0x64c9 hit 33313438
+> store 0x852e miss
+> load 0x2a65 hit 32313063
+> load 0x4b2f hit 6434
+> store 0x8864 miss
+> load 0x4800 hit 33
+> store 0x6466 miss
+> store 0x812e miss
+913,929c913,929
+< store 0xaa67 hit
+< load 0x4864 hit 00ff
+< load 0x2667 hit 4d93806bfb000000
+< load 0x4465 hit 0000b441
+< load 0xa202 hit e27a2205
+< load 0xa202 hit e27a
+< store 0xa267 hit
+< load 0x8601 hit 00001300
+< load 0xa72c hit 806e3519
+< load 0x6b2c hit 2700
+< store 0x8a02 hit
+< store 0x8a00 hit
+< store 0x2002 hit
+< load 0x4602 hit 176a569400000000
+< load 0x267 hit 459d3c0522a40000
+< store 0x2065 hit
+< store 0x272e hit
+---
+> store 0xaa67 miss
+> load 0x4864 hit 0066
+> load 0x2667 hit 3162353464000000
+> load 0x4465 hit 00006234
+> load 0xa202 hit 62376532
+> load 0xa202 hit 6237
+> store 0xa267 miss
+> load 0x8601 hit 00003100
+> load 0xa72c hit 38366531
+> load 0x6b2c hit 3200
+> store 0x8a02 miss
+> store 0x8a00 miss
+> store 0x2002 miss
+> load 0x4602 hit 3137363400000000
+> load 0x267 hit 3035343539640000
+> store 0x2065 miss
+> store 0x272e miss
+932,958c932,958
+< store 0xa72c hit
+< store 0x72d hit
+< load 0x232e hit 603e
+< store 0x4267 hit
+< load 0x872d hit d1fbc4511e5d0000
+< store 0x20cb hit
+< load 0x4402 hit 0082
+< store 0x400 hit
+< store 0x80c9 hit
+< store 0x4464 hit
+< load 0x252f hit 7754
+< store 0x8667 hit
+< load 0xa72d hit 6e351992
+< load 0xa202 hit e27a
+< load 0x8200 hit 60
+< load 0x2ac9 hit 22
+< store 0xab2d hit
+< store 0x800 hit
+< store 0xa65 hit
+< load 0xa00 hit da32
+< store 0xa4ca hit
+< load 0x32e hit 65438dbc
+< load 0x8b2d hit 9dbebb2343340185
+< store 0x4265 hit
+< store 0x4801 hit
+< load 0x6001 hit 6d
+< load 0xa002 hit cecdd4d7361f7200
+---
+> store 0xa72c miss
+> store 0x72d miss
+> load 0x232e hit 3633
+> store 0x4267 miss
+> load 0x872d hit 6431633464660000
+> store 0x20cb miss
+> load 0x4402 hit 0038
+> store 0x400 miss
+> store 0x80c9 miss
+> store 0x4464 miss
+> load 0x252f hit 3630
+> store 0x8667 miss
+> load 0xa72d hit 36653139
+> load 0xa202 hit 6237
+> load 0x8200 hit 36
+> load 0x2ac9 hit 66
+> store 0xab2d miss
+> store 0x800 miss
+> store 0xa65 miss
+> load 0xa00 hit 6461
+> store 0xa4ca miss
+> load 0x32e hit 36356161
+> load 0x8b2d hit 6339646265626237
+> store 0x4265 miss
+> store 0x4801 miss
+> load 0x6001 hit 36
+> load 0xa002 hit 6463663236643400
+960c960
+< load 0x2665 hit 91be
+---
+> load 0x2665 hit 3262
+963,964c963,964
+< store 0x6200 hit
+< load 0x801 hit 1d2b0100
+---
+> store 0x6200 miss
+> load 0x801 hit 63326200
+966,972c966,972
+< load 0xaa65 hit 82002100
+< store 0xa664 hit
+< load 0x8866 hit cf38
+< load 0x6a64 hit e561c24d
+< load 0x72d hit 0e
+< store 0x4a02 hit
+< load 0x8865 hit 01cf
+---
+> load 0xaa65 hit 38003200
+> store 0xa664 miss
+> load 0x8866 hit 3031
+> load 0x6a64 hit 65363163
+> load 0x72d hit 30
+> store 0x4a02 miss
+> load 0x8865 hit 3830
+974,975c974,975
+< store 0x4865 hit
+< store 0xa401 hit
+---
+> store 0x4865 miss
+> store 0xa401 miss
+977,987c977,987
+< load 0x452d hit ff
+< load 0x2064 hit cd
+< store 0x22c8 hit
+< store 0x8003 hit
+< load 0x8aca hit 09d172d5
+< store 0x6b2f hit
+< store 0x60c9 hit
+< load 0xaac8 hit ee00a4ff
+< load 0x2a64 hit 3221150c
+< store 0x2a00 hit
+< store 0x60c9 hit
+---
+> load 0x452d hit 66
+> load 0x2064 hit 63
+> store 0x22c8 miss
+> store 0x8003 miss
+> load 0x8aca hit 36313039
+> store 0x6b2f miss
+> store 0x60c9 miss
+> load 0xaac8 hit 65006134
+> load 0x2a64 hit 33323130
+> store 0x2a00 miss
+> store 0x60c9 miss
+990,1000c990,1000
+< load 0x8aca hit 09d172d5
+< store 0x8866 hit
+< load 0x22c8 hit f2
+< load 0x8b2f hit bb23433401851dd9
+< store 0x665 hit
+< store 0xa2c8 hit
+< load 0xa801 hit f6
+< load 0x6864 hit df
+< load 0x603 hit 3347e75f
+< store 0xa0ca hit
+< load 0x46cb hit 9a
+---
+> load 0x8aca hit 36313039
+> store 0x8866 miss
+> load 0x22c8 hit 66
+> load 0x8b2f hit 6462656262376433
+> store 0x665 miss
+> store 0xa2c8 miss
+> load 0xa801 hit 38
+> load 0x6864 hit 64
+> load 0x603 hit 38323437
+> store 0xa0ca miss
+> load 0x46cb hit 39

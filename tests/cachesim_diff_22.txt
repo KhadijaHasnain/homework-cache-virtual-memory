@@ -1,0 +1,32 @@
+2,4c2,4
+< load 0x0 miss 12345678
+< store 0x4 hit
+< load 0x4 hit c0debeef
+---
+> load 0x0 miss 31323334
+> store 0x4 miss
+> load 0x4 hit 63306465
+6,8c6,8
+< load 0x8 miss 11223344
+< store 0xc hit
+< load 0xc hit 55667788
+---
+> load 0x8 miss 31313232
+> store 0xc miss
+> load 0xc hit 35353636
+10,12c10,12
+< load 0x10 miss 99aabbcc
+< store 0x14 hit
+< load 0x14 hit ddeeff00
+---
+> load 0x10 miss 39396161
+> store 0x14 miss
+> load 0x14 hit 64646565
+14,16c14,16
+< load 0x18 miss feedcafe
+< store 0x1c hit
+< load 0x1c hit ece25001
+---
+> load 0x18 miss 66656564
+> store 0x1c miss
+> load 0x1c hit 65636532

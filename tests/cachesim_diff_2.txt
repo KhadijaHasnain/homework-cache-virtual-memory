@@ -1,0 +1,4 @@
+2c2
+< load 0x0 miss 00deadbe
+---
+> load 0x0 miss 00646561

@@ -1,0 +1,16 @@
+store 0x0 miss
+load 0x0 miss 31323334
+store 0x4 miss
+load 0x4 hit 63306465
+store 0x8 miss
+load 0x8 miss 31313232
+store 0xc miss
+load 0xc hit 35353636
+store 0x10 miss
+load 0x10 miss 39396161
+store 0x14 miss
+load 0x14 hit 64646565
+store 0x18 miss
+load 0x18 miss 66656564
+store 0x1c miss
+load 0x1c hit 65636532

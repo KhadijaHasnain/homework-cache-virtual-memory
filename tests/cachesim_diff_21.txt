@@ -1,0 +1,32 @@
+2c2
+< load 0x0 miss 12345678
+---
+> load 0x0 miss 31323334
+4c4
+< load 0x4 miss c0debeef
+---
+> load 0x4 miss 63306465
+6c6
+< load 0x8 miss 11223344
+---
+> load 0x8 miss 31313232
+8c8
+< load 0xc miss 55667788
+---
+> load 0xc miss 35353636
+10c10
+< load 0x10 miss 99aabbcc
+---
+> load 0x10 miss 39396161
+12c12
+< load 0x14 miss ddeeff00
+---
+> load 0x14 miss 64646565
+14c14
+< load 0x18 miss feedcafe
+---
+> load 0x18 miss 66656564
+16c16
+< load 0x1c miss ece25001
+---
+> load 0x1c miss 65636532

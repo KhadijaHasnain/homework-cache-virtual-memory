@@ -1,0 +1,4 @@
+2c2
+< load 0x0 miss deadbeef
+---
+> load 0x0 miss 64656164

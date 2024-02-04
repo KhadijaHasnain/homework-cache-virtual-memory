@@ -1,0 +1,4 @@
+2c2
+< load 0x1 miss adbeef00
+---
+> load 0x1 miss 65616400

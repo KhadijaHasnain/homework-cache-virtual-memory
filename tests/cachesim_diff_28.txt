@@ -1,0 +1,32 @@
+2c2
+< store 0x0 hit
+---
+> store 0x0 miss
+4c4
+< store 0x4 hit
+---
+> store 0x4 miss
+6c6
+< store 0x8 hit
+---
+> store 0x8 miss
+8c8
+< store 0xc hit
+---
+> store 0xc miss
+10c10
+< store 0x10 hit
+---
+> store 0x10 miss
+12c12
+< store 0x14 hit
+---
+> store 0x14 miss
+14c14
+< store 0x18 hit
+---
+> store 0x18 miss
+16c16
+< store 0x1c hit
+---
+> store 0x1c miss
